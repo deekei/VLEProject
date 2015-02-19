@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DialoguerGUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DialoguerGUI.cs" Line="52" Column="1" />
+      <File FileName="Assets\Scripts\Dialogue.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DialoguerGUI.cs" Line="52" Column="1" />
+      <File FileName="Assets\Scripts\SEATScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AreaScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CorrectSeatScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
